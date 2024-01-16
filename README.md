@@ -2,7 +2,7 @@
 👋 Hi, my name is Barsha Siwakoti
 
 
-📫 How to reach me: message me on [LinkedIn]([url](https://www.linkedin.com/in/barshasiwakoti/))!
+📫 How to reach me: message me on [LinkedIn]([url](https://www.linkedin.com/in/barshasiwakoti/)!
 
 <!--
 **barshsiwakoti/Barshsiwakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
