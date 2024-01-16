@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+👋 Hi, my name is Barsha Siwakoti
+
+
+📫 How to reach me: message me on LinkedIn![image](https://github.com/barshsiwakoti/Barshsiwakoti/assets/121818116/da54f06c-9114-4ec2-8713-762000e80ca9)
 
 <!--
 **barshsiwakoti/Barshsiwakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
