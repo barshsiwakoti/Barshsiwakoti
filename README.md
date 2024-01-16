@@ -1,20 +1,15 @@
-### 
+## Introducing myself
 👋 Hi, my name is Barsha Siwakoti
 
+I am interested in working with data and uncover meaningful insights, identify patterns, and derive valuable information. 
 
-📫 How to reach me: message me on [Linkedin](https://www.linkedin.com/in/barshasiwakoti/)!
+### 🛠️ Tools
 
-<!--
-**barshsiwakoti/Barshsiwakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Languages: SQL, Python, C#, C++
+- Data visualizations: Tableau, PowerBI, Excel
 
-Here are some ideas to get you started:
+### 🌱 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the dedicated space where I create and showcase my talents through my portfolio [projects](https://github.com/barshsiwakoti?tab=repositories).
+
+📫 Connect with me by messaging me on [LinkedIn](https://www.linkedin.com/in/barshasiwakoti/)!
