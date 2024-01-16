@@ -1,5 +1,5 @@
-## Introducing myself
-👋 Hi, my name is Barsha Siwakoti
+## 👋 Introducing myself
+Hi, my name is Barsha Siwakoti
 
 I am interested in working with data and uncover meaningful insights, identify patterns, and derive valuable information. 
 
