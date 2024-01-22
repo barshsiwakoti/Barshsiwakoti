@@ -13,3 +13,5 @@ I am interested in working with data and uncover meaningful insights, identify p
 This is the dedicated space where I create and showcase my talents through my portfolio [projects](https://github.com/barshsiwakoti?tab=repositories).
 
 📫 Connect with me by messaging me on [LinkedIn](https://www.linkedin.com/in/barshasiwakoti/)!
+
+📍 Visit my [Tableau Public](https://public.tableau.com/app/profile/barsha.siwakoti/vizzes) profile!
